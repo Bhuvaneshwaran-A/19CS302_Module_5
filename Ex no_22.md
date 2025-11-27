@@ -1,11 +1,5 @@
-# EX 22 C program to count total number of even elements in an array using calloc().
-## DATE:
-## AIM:
-To write a C program to count total number of even elements in an array using calloc().
 
-## Algorithm
-1. 
-2. # EX 22 C program to count total number of even elements in an array using calloc().
+# EX 22 C program to count total number of even elements in an array using calloc().
 ## DATE: 
 ## AIM:
 To write a C program to count total number of even elements in an array using calloc().
@@ -41,25 +35,6 @@ printf("Total even elements: %d",count);
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/fc17064a-f203-40f7-be85-cfac3550bfbc)
-
-
-## Result:
-Thus the program was executed and the output was verified successfully.
-3. 
-4.  
-5.   
-
-## Program:
-```
-/*
-C program to count total number of even elements in an array using calloc().
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Output:
-
 
 
 ## Result:
